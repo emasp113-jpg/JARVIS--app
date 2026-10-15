@@ -30,4 +30,5 @@ def hablar(texto: str):
 
 if __name__ == "__main__":
   hablar("Hola, soy JARVIS. Sistema de voz neuronal activado.")
-    
+
+  
