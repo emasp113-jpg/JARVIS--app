@@ -1,8 +1,2 @@
-# JARVIS - Aplicación
-
-Asistente de voz y control desarrollado en Python para dispositivos móviles.
-
-## Características
-- Síntesis y reconocimiento de voz.
-- Interfaz y comandos personalizados.
-- 
+# Jarvis - app
+Asistente personal instalable (PWA). Niveles 1-3 + holograma + acciones básicas (WhatsApp, Gmail, navegador).
